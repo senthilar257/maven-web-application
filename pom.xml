@@ -24,6 +24,9 @@
 		<sonar.host.url>http://52.66.185.153:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>$enthil4565</sonar.password>  
+		<nexus.host.url>http://15.206.212.177:2525/poritech</nexus.host.url>
+                <nexus.login>admin</nexus.login>
+		<nexus.password>$enthil4565</nexus.password>  
               
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
