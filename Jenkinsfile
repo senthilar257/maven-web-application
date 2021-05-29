@@ -3,7 +3,7 @@ pipeline
     //agent any
     agent
     {
-        lable 'wallmart-node1'
+        label 'wallmart-node1'
     }
     tools
     {
